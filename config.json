@@ -1,0 +1,13 @@
+{
+    "MDE": {
+        "TenantId": "your_tenant_id",
+        "ClientId": "your_client_id",
+        "ClientSecret": "your_client_secret"
+    },
+    "Jira": {
+        "Url": "your_jira_url",
+        "Email": "your_jira_email",
+        "ApiToken": "your_jira_api_token",
+        "ProjectKey": "your_project_key"
+    }
+} 
